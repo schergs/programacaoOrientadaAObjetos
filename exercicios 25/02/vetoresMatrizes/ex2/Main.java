@@ -1,5 +1,5 @@
 package ex2;
-
+//guilherme scher =)
 public class Main {
     public static void main(String[] args) {
         //2 - Escreva um programa Java que use uma matriz para ler os valores de uma tabela de multiplicação (tabuada) de 10x10 e depois a imprima na tela.

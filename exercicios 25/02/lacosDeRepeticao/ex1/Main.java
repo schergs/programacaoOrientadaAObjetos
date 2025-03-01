@@ -1,5 +1,5 @@
 package ex1;
-
+//guilherme scher =)
 public class Main {
     public static void main(String[] args) {
         /*1 - Escreva um programa Java que use um laço imprimir os números de 1 a 10.*/

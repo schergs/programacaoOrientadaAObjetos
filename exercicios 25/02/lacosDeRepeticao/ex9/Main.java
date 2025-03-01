@@ -1,5 +1,5 @@
 package ex9;
-
+//guilherme scher =)
 public class Main {
     public static void main(String[] args) {
         /*9 - Escreva um programa Java que use um laço para imprimir os números primos de 1 a 50.*/

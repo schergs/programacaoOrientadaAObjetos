@@ -1,5 +1,5 @@
 package ex6;
-
+//guilherme scher =)
 import java.util.Scanner;
 
 public class Main {

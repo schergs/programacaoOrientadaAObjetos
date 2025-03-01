@@ -1,5 +1,5 @@
 package ex4;
-
+//guilherme scher =)
 public class Main {
     public static void main(String[] args) {
         /*4 - Escreva um programa Java que use um laço para somar os números de 1 a 100.*/
